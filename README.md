@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshata Kanumuri
-- 👩‍💻 I worked as a Decision Scientist, Data Analyst, and Quantitative Associate in Search Advertising, Pharmaceutical, Finance, and Banking industries
+- 👩‍💻 I worked as a Data Scientist in Search Advertising, Pharmaceutical, Finance, and Banking industries
 - 👩‍🏫 I worked was as a Teaching Assistant at UNCC Data Science and FinTech Cohorts mentored more than 40 students in their Data Science journey
 - 🔉 In collaboration with Woman Who Code, I represented Bank of America, where I spoke about "Getting started with Machine Learning."
 - 👀 I’m interested in Natural Language Processing and passionate about Data Science
